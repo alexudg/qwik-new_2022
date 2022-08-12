@@ -1,0 +1,22 @@
+* Pre-requisites:
+  -win7x64
+  -node 14.17.6 (lestest special instalation on win7)
+  -npm 6.14.15
+
+* Create:
+  > npm create qwik
+  ? Project name ... qwik-new_2022
+  ? Select a starter ... Blank
+  ? Features ... Prettier
+
+  cd qwik-new_2022
+  npm install
+  npm start
+
+* Open in vs-code:
+  > cd qwik-new_2022
+  > code .
+
+* Install dependences and run dev:
+  > npm install
+  > npm start
